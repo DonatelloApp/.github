@@ -29,8 +29,8 @@ Inspirado en el personaje de las Tortugas Ninja, simboliza innovación tecnológ
 
 ## Arquitectura y diseño
 ### Frontend
-- **Despliegue**:  https://dona-tello.netlify.app/
-- **Repositorio**: https://github.com/igrowker/i002-donatello-front
+- **Despliegue**:  https://donatello-app.netlify.app/
+- **Repositorio**: https://github.com/DonatelloApp/front
 - **Tecnologías**: Angular 16, Bootstrap, Github Actions `PENDIENTEEEEE MODIFICAR`
 
 ### Backend Python (Finanzas)
@@ -39,13 +39,13 @@ Inspirado en el personaje de las Tortugas Ninja, simboliza innovación tecnológ
 - **Tecnologías**: Python, Django, PostgreSQL, Github Actions, Render.
 
 ### Backend Java (API principal)
-- **Despliegue**:  https://i002-donatello-back-java-latest-z9hn.onrender.com/
-- **Repositorio**: https://github.com/igrowker/i002-donatello-back-java
+- **Despliegue**:  https://backjavadonatelloapp.onrender.com/
+- **Repositorio**: https://github.com/DonatelloApp/back-java
 - **Tecnologías**: Java 17, Springboot 3, PostrgreSQL, Json Web Token, Mapstrut, Swagger, Docker, Github Actions etcs.
-- **Endpoints**: `Swagger:` https://i002-donatello-back-java-latest-z9hn.onrender.com/docs/swagger-ui/index.html 
+- **Endpoints**: `Swagger:` https://backjavadonatelloapp.onrender.com/docs/swagger-ui/index.html 
 
 ### QA Docs
-- **https://github.com/igrowker/i002-donatello-back-java/tree/develop/testing**
+- **https://github.com/DonatelloApp/back-java/tree/develop/testing**
 
 ## Funcionalidades
 - **Usuarios, Autenticación y autorización**: Usando spring security, JWT (Json Web Token). Gestión del perfil público.
